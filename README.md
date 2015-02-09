@@ -1,5 +1,4 @@
 #eXceed Vote By Team Meepo
-=========================
 Welcome to our team.
 For other documents please see our <a href="https://github.com/SSD2015/TeamMeepo/wiki">Wiki</a>
 Team Member
